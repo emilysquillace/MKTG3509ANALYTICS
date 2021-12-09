@@ -1,5 +1,7 @@
 # MKTG3509ANALYTICS
 This repo includes files that were completed during the duration of the course MKTG3509 at Temple University.
+#MY RESUME 
+*
 # Table of Contents:
     A1 MARKDOWN CV
     A3 YELP REVIEWS
